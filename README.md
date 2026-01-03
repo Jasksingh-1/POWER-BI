@@ -1,5 +1,3 @@
-# 📋 Sales Dashboard Portfolio (Power BI)
-
 ## 🚀 Project Summary
 
 This repository showcases a **Sales Dashboard project** built in **Power BI**, designed to help business users explore sales performance, product trends, and customer behavior over time. The dashboard integrates key visuals with intuitive filters to uncover insights that support data-driven decisions.
