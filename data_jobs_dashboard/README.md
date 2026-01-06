@@ -61,7 +61,7 @@ There is also visible growth in **Asia and Australia**, indicating expanding glo
 ## 📂 Files in This Folder
 - `Data_jobs_Dashboard.png` – Dashboard screenshot  
 - `README.md` – Project documentation
-- `data_jobs_dashboard.pbix- powerbi file
+- `data_jobs_dashboard.pbix`- powerbi file
 
 ---
 
